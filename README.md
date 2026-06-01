@@ -1,16 +1,22 @@
-## Hi there 👋
+Merhaba! 👋
+IT Specialist with 7+ years of experience managing on-premises infrastructure for enterprise environments.
+🔧 What I Work With
 
-<!--
-**burakaktas231/burakaktas231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure: Active Directory, Group Policy, DNS, DHCP, Windows Server 2019/2022
+Email: Exchange Server 2019 (mailbox management, transport rules, ActiveSync)
+Security: ESET Endpoint Security, Safetica DLP, FortiVPN
+Backup: Veeam Backup & Replication
+Automation: PowerShell scripting for daily IT operations
+Currently Learning: GitHub Actions, Docker, CI/CD pipelines, Azure fundamentals
 
-Here are some ideas to get you started:
+📂 Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ad-powershell-scripts — AD user lifecycle, security auditing, Group Policy management
+exchange-admin-toolkit — Exchange Server 2019 administration tools
+windows-infra-monitor — Infrastructure monitoring, DNS, DHCP, network scanning
+sysadmin-notes — Troubleshooting guides, checklists, best practices
+
+📫 Contact
+
+📍 Istanbul, Turkey
+💼 Open to IT Specialist / System Administrator / DevOps opportunities
